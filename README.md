@@ -1,3 +1,8 @@
-# My Awesome Book
+# MIUI10样式弹窗
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+MIUI10样式Dialog已经封装到CommonUI仓库里，以下是Dialog的封装使用.
+
+![](/assets/import.png)
+
+
+
