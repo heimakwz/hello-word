@@ -96,5 +96,3 @@ private void showSelectDialog() {
 
 ![](/android_miui10_style_dialog/assets/name1.jpg)![](/android_miui10_style_dialog/assets/name2.jpg)
 
-
-
