@@ -1,4 +1,4 @@
-# MIUI10 Style Dialog
+# Android MIUI10 Style Dialog
 
 ---
 
